@@ -1,8 +1,8 @@
 ## Hi, I'm Margaret 👋
 
-Some projects that were previously visible here are now private while they're in an active consolidation phase.
+Recent development (January 2026): Integrated cryptographic audit infrastructure with content-addressed storage, enabling full deterministic replay and state verification.
 
-If you're looking for **Aurora / Aurora-PEF** or related work, you're welcome to [contact me on LinkedIn](https://www.linkedin.com/in/margaret-s-12830614/).
+you're welcome to [contact me on LinkedIn](https://www.linkedin.com/in/margaret-s-12830614/).
 
 Building things that think differently.  
 Some projects are public. The interesting ones aren't.
