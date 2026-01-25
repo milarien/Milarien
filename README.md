@@ -4,19 +4,17 @@ AI systems that prove their reasoning and know when to refuse.
 
 ---
 
-## Repositories
+## Public Documentation
 
-**[Aurora Governor](https://github.com/milarien/aurora_governor)**  
-Audit-grade governance • Cryptographic identity • Forensic logs • Deterministic replay
+**[Aurora Governor](https://milarien.github.io/aurora_governor_docs/)** — Audit-grade governance • Cryptographic identity • Forensic logs • Deterministic replay
 
-**[Aurora-PEF](https://github.com/milarien/Aurora-PEF)**  
-Epistemic legitimacy • Compositional reasoning • Refusal as valid outcome
+**[Aurora-PEF](https://github.com/milarien/Aurora-PEF)** — Epistemic legitimacy • Compositional reasoning • Refusal as valid outcome
 
 ---
 
 ## Patents
 
-Genesis architecture + Aurora substrate (6 patents)  
+**Genesis architecture + Aurora substrate** (6 patents)  
 Dual-encoder language models • Governance substrate • Cryptographic verification
 
 ---
@@ -27,7 +25,7 @@ Dual-encoder language models • Governance substrate • Cryptographic verifica
 
 *Some projects are public. The interesting ones aren't.*
 
-you're welcome to [contact me on LinkedIn](https://www.linkedin.com/in/margaret-s-12830614/).
+You're welcome to [contact me on LinkedIn](https://www.linkedin.com/in/margaret-s-12830614/).
 
  
 
