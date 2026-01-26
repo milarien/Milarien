@@ -6,7 +6,7 @@ AI systems that prove their reasoning and know when to refuse.
 
 ## Public Documentation
 
-**[Aurora Governor](https://milarien.github.io/aurora_governor_docs/)** — Audit-grade governance • Cryptographic identity • Forensic logs • Deterministic replay
+**[Aurora Governor](https://github.com/milarien/aurora_governor_docs)** — Audit-grade governance • Cryptographic identity • Forensic logs • Deterministic replay
 
 **[Aurora-PEF](https://github.com/milarien/Aurora-PEF)** — Epistemic legitimacy • Compositional reasoning • Refusal as valid outcome
 
