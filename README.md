@@ -19,7 +19,7 @@ Dual-encoder language models • Governance substrate • Cryptographic verifica
 
 ---
 
-**Contact:** meg.stokes.ai@gmail.com
+**Contact:** margaret.stokes.ai@gmail.com
 
 *Building things that think differently.*
 
