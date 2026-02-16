@@ -39,7 +39,7 @@ Stokes, M. (2026). Preprint.
 
 ## Intellectual Property
 
-Provisional patents filed covering the core architecture for structure-governed epistemic evaluation.
+Provisional patents filed (6) covering the Genesis architecture and the Aurora/PEF core architecture for structure-governed epistemic evaluation.
 
 ---
 
