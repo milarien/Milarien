@@ -1,44 +1,46 @@
 # Margaret Stokes
 
-AI systems that prove their reasoning and know when to refuse.
+Independent AI researcher specialising in epistemic governance for large language models.
 
 ---
 
-## Public Documentation
+## Aurora-Lens
 
-**[Aurora Governor](https://github.com/milarien/aurora_governor_docs)** — Audit-grade governance • Cryptographic identity • Forensic logs • Deterministic replay
+Aurora-Lens is a governance proxy that sits between applications and LLM providers, enforcing epistemic legitimacy at the transport layer. It determines whether an AI system's conclusions are permitted by the evidence structure before they are expressed — and produces a tamper-evident forensic audit trail of every decision.
 
-**[Aurora-PEF](https://github.com/milarien/Aurora-PEF)** — Epistemic legitimacy • Compositional reasoning • Refusal as valid outcome
+It does not replace large language models. It constrains them.
+
+**Core capabilities:**
+
+- Provider-agnostic governance proxy (Anthropic, OpenAI)
+- Parallel Epistemic Field maintaining multiple admissible interpretations
+- Constraint-forced collapse only — no heuristic or probabilistic shortcuts
+- Refusal and suspended judgment as first-class correct outcomes
+- Hash-chained forensic audit ledger (AFL-JSONL-1)
+- Per-session state isolation
+- Configurable governance policy (YAML)
+- Drop-in deployment — no SDK or model changes required
 
 ---
 
-## Patents
+## Publications
 
-**Genesis architecture + Aurora substrate** (6 patents)  
-Dual-encoder language models • Governance substrate • Cryptographic verification
+**Epistemic Legitimacy as a Governance Layer for Large Language Models: Architecture and Implementation**
+Stokes, M. (2026). Preprint.
+[https://doi.org/10.5281/zenodo.18653120](https://doi.org/10.5281/zenodo.18653120)
 
 ---
 
-**Contact:** margaret.stokes.ai@gmail.com
+## Documentation
 
-*Building things that think differently.*
+- **[Aurora Governor Docs](https://github.com/milarien/aurora_governor_docs)** — Governance substrate, cryptographic identity, forensic logs, deterministic replay
 
-*Some projects are public. The interesting ones aren't.*
+---
 
-You're welcome to [contact me on LinkedIn](https://www.linkedin.com/in/margaret-s-12830614/).
+## Intellectual Property
 
- 
+Provisional patents filed covering the core architecture for structure-governed epistemic evaluation.
 
+---
 
-<!--
-**milarien/Milarien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a lot of things, including Lego 
-- 🌱 I’m currently learning ... that's just a prerequisite to life
-- 💬 Ask me about ... 
-- 📫 How to reach me: ...
-- 😄 Pronouns: she/her (I wish this was not a thing)
-- ⚡ Fun fact: 
--->
+**Contact:** [margaret.stokes.ai@gmail.com](mailto:margaret.stokes.ai@gmail.com)
