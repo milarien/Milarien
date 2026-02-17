@@ -35,6 +35,8 @@ Stokes, M. (2026). Preprint.
 
 - **[Aurora Governor Docs](https://github.com/milarien/aurora_governor_docs)** — Governance substrate, cryptographic identity, forensic logs, deterministic replay
 
+- **[Aurora Governor Demo](https://github.com/milarien/aurora-governor-demo)** — Runtime admissibility governance • Post-generation enforcement • Audit logging
+
 ---
 
 ## Intellectual Property
