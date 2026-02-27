@@ -1,6 +1,8 @@
 # Margaret Stokes
 
-Independent AI researcher specialising in epistemic governance for large language models.
+Philosopher. Poet. Computer nerd since 1978. Independent AI researcher working on epistemic governance for large language models.
+
+[milamba.com](https://milamba.com) &nbsp;·&nbsp; [ORCID 0009-0004-6422-4174](https://orcid.org/0009-0004-6422-4174)
 
 ---
 
@@ -9,6 +11,10 @@ Independent AI researcher specialising in epistemic governance for large languag
 Aurora-Lens is a governance proxy that sits between applications and LLM providers, enforcing epistemic legitimacy at the transport layer. It determines whether an AI system's conclusions are permitted by the evidence structure before they are expressed — and produces a tamper-evident forensic audit trail of every decision.
 
 It does not replace large language models. It constrains them.
+
+```
+pip install aurora-lens
+```
 
 **Core capabilities:**
 
@@ -26,8 +32,12 @@ It does not replace large language models. It constrains them.
 ## Publications
 
 **Epistemic Legitimacy as a Governance Layer for Large Language Models: Architecture and Implementation**
-Stokes, M. (2026). Preprint.
+Stokes, M. (2026).
 [https://doi.org/10.5281/zenodo.18653120](https://doi.org/10.5281/zenodo.18653120)
+
+**Operational Alignment of Aurora-Lens with OECD Due Diligence Guidance for Responsible AI (2026)**
+Stokes, M. (2026).
+[https://doi.org/10.5281/zenodo.18719033](https://doi.org/10.5281/zenodo.18719033)
 
 ---
 
@@ -35,13 +45,13 @@ Stokes, M. (2026). Preprint.
 
 - **[Aurora Governor Docs](https://github.com/milarien/aurora_governor_docs)** — Governance substrate, cryptographic identity, forensic logs, deterministic replay
 
-- **[Aurora Governor Demo](https://github.com/milarien/aurora-governor-demo)** — Runtime admissibility governance • Post-generation enforcement • Audit logging
+- **[Aurora Governor Demo](https://github.com/milarien/aurora-governor-demo)** — Runtime admissibility governance · Post-generation enforcement · Audit logging
 
 ---
 
 ## Intellectual Property
 
-Provisional patents filed (6) covering the Genesis architecture and the Aurora/PEF core architecture for structure-governed epistemic evaluation.
+Five provisional patents filed covering the Genesis architecture and the Aurora/PEF core architecture for structure-governed epistemic evaluation.
 
 ---
 
