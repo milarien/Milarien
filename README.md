@@ -34,6 +34,7 @@ pip install aurora-lens
 **Epistemic Legitimacy as a Governance Layer for Large Language Models: Architecture and Implementation**
 Stokes, M. (2026).
 [https://doi.org/10.5281/zenodo.18653120](https://doi.org/10.5281/zenodo.18653120)
+Also available at SSRN: [https://ssrn.com/abstract=6244239](https://ssrn.com/abstract=6244239)
 
 **Operational Alignment of Aurora-Lens with OECD Due Diligence Guidance for Responsible AI (2026)**
 Stokes, M. (2026).
